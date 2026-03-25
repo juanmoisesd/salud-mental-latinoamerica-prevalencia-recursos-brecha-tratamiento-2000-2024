@@ -7,10 +7,9 @@
     }
   ],
   "keywords": [
-    "open-data",
     "research",
     "latin-america"
   ],
-  "description": "Base de datos de salud mental en 10 países de América Latina (2000–2024): depresión, ansiedad, suicidio, recursos y brecha de tratamiento. OSF: https://osf.io/36crj/\n\nDOI: https://github.com/juanmoisesd/salud-mental-latinoamerica-prevalencia-recursos-brecha-tratamiento-2000-2024\nGitHub: https://github.com/juanmoisesd/salud-mental-latinoamerica-prevalencia-recursos-brecha-tratamiento-2000-2024\nAuthor: de la Serna, Juan Moisés",
+  "description": "Base de datos de salud mental en 10 países de América Latina (2000–2024): depresión, ansiedad, suicidio, recursos y brecha de tratamiento. OSF: https://osf.io/36crj/\nDOI: https://github.com/juanmoisesd/salud-mental-latinoamerica-prevalencia-recursos-brecha-tratamiento-2000-2024",
   "isPrivate": false
 }
